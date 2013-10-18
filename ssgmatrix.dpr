@@ -3,6 +3,7 @@ program SSGMatrix;
 uses
   Forms,
   Dialogs,
+  UITypes,
   mainfrm in 'mainfrm.pas' {MainForm};
 
 {$E scr}
